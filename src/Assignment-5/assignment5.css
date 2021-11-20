@@ -20,7 +20,6 @@ height: 100%;
     margin-top: 3%;
     padding-bottom: 50px;
     background-color:rgb(255, 255, 255);
-    display: block;
     margin-left: auto;
     margin-right: auto;
     display: flex;
@@ -47,6 +46,7 @@ button {
     border-radius: 999px;
     color:whitesmoke;
     background-color: rgb(115, 180, 115);
+    border: none;
 }
 .image1 {
     position: relative;
